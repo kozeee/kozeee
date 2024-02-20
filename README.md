@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on OpenDarts - A dart tournament tracking application.<br>👯 I’m looking to collaborate on OpenDarts, or other open-source projects.<br>🌱 I’m currently learning React/Tailwind for front-end development.<br>💬 Ask me about any of my featured repos!<br>⚡ Huge DnD and Mmorpg nerd!
+🔭 I’m currently working on OpenDarts - A dart tournament tracking application.<br>👯 I’m looking to collaborate on OpenDarts, or other open-source projects.<br>🌱 I’m currently learning React/Tailwind for front-end development.<br>💬 Ask me about API Development and Customer Engineering!
 
 
 ## 🌐 Socials:
